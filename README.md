@@ -1,4 +1,4 @@
-## Hi there, I'm Balayet!👋
+## Hi there 👋, I'm Balayet!
 
 A passionate Front-End Developer from Bangladesh.
 
@@ -8,3 +8,5 @@ A passionate Front-End Developer from Bangladesh.
 - 💬 Ask me about Front-End Developer
 - 📫 How to reach me: balayetahammedrifat@gmail.com
 - ⚡ Fun fact: I think I'm good for Front-End Developer
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balayetahammed)](https://github.com/anuraghazra/github-readme-stats)
